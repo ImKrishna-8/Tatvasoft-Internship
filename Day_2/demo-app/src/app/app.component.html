@@ -1,0 +1,30 @@
+<div class="main">
+    
+<div class="main">
+    <h2>Login Page</h2>
+
+    <div class="mb-3">
+        
+        <input type="text" name="email" [(ngModel)]="username" placeholder="Enter Username" />
+    </div>
+    <div class="mb-3">
+        <input type="password" name="password" [(ngModel)]="pass" placeholder="Enter Password" />
+    </div>
+    <br />
+    
+<button type="button" class="btn btn-dark" (click)="loginCheck()">Login</button>
+
+<div *ngIf="result==null">
+    <p style="color: black;">**Green line ain’t free</p>
+</div>
+
+
+<div *ngIf="result">
+    <p style="color: green;">Login sucessfull</p>
+</div>
+
+<div *ngIf="result===false">
+    <p style="color: red;">Login Failed</p>
+</div>
+</div>
+</div>
