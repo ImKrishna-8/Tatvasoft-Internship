@@ -39,7 +39,7 @@ The internship was divided into daily tasks and modules:
 ## 🗂️ Repository Structure
 
 ```
-/Tatvasot-Internship
+/Tatvasoft-Internship
 │
 ├── day_1/            # PostgreSQL Basics
 ├── day_2/            # Angular App Setup
