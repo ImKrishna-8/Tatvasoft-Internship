@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Mission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55156C40-ED3D-4968-86EE-63A67F301D68}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.repositories\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55156C40-ED3D-4968-86EE-63A67F301D68}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55156C40-ED3D-4968-86EE-63A67F301D68}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55156C40-ED3D-4968-86EE-63A67F301D68}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.entities\\viewmodels\\login\\userloginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\viewmodels\\login\\userloginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.entities\\viewmodels\\login\\userloginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\viewmodels\\login\\userloginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A21AF14-A0C0-4DBF-A3B2-2593E4B0FF49}|Mission.Services\\Mission.Services.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A21AF14-A0C0-4DBF-A3B2-2593E4B0FF49}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CA41D5-76F1-4B98-A70D-A75E3F8394D4}|Mission.Api\\Mission.Api.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CA41D5-76F1-4B98-A70D-A75E3F8394D4}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CA41D5-76F1-4B98-A70D-A75E3F8394D4}|Mission.Api\\Mission.Api.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CA41D5-76F1-4B98-A70D-A75E3F8394D4}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.entities\\mission.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\mission.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A21AF14-A0C0-4DBF-A3B2-2593E4B0FF49}|Mission.Services\\Mission.Services.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.services\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A21AF14-A0C0-4DBF-A3B2-2593E4B0FF49}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.entities\\viewmodels\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\viewmodels\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A21AF14-A0C0-4DBF-A3B2-2593E4B0FF49}|Mission.Services\\Mission.Services.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.services\\mission.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A21AF14-A0C0-4DBF-A3B2-2593E4B0FF49}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\mission.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CA41D5-76F1-4B98-A70D-A75E3F8394D4}|Mission.Api\\Mission.Api.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97CA41D5-76F1-4B98-A70D-A75E3F8394D4}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.entities\\missiondbconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\missiondbconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\lenovo\\source\\repos\\mission\\mission.entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E0FA7-387F-45D2-BD6C-E2468E69BC49}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:15:00.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Services\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Services\\Service\\UserService.cs",
+              "RelativeToolTip": "Mission.Services\\Service\\UserService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:53:34.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Api\\Program.cs",
+              "RelativeToolTip": "Mission.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T09:50:54.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Repositories\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Repositories\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:25:21.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLoginResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\ViewModels\\Login\\UserLoginResponseModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\ViewModels\\Login\\UserLoginResponseModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\ViewModels\\Login\\UserLoginResponseModel.cs",
+              "RelativeToolTip": "Mission.Entities\\ViewModels\\Login\\UserLoginResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:40:48.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\ViewModels\\Login\\UserLoginRequestModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\ViewModels\\Login\\UserLoginRequestModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\ViewModels\\Login\\UserLoginRequestModel.cs",
+              "RelativeToolTip": "Mission.Entities\\ViewModels\\Login\\UserLoginRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:32:17.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Repositories\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Repositories\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:25:49.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mission.Entities",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\Mission.Entities.csproj",
+              "RelativeDocumentMoniker": "Mission.Entities\\Mission.Entities.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\Mission.Entities.csproj",
+              "RelativeToolTip": "Mission.Entities\\Mission.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T11:30:54.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mission.Services",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Services\\Mission.Services.csproj",
+              "RelativeDocumentMoniker": "Mission.Services\\Mission.Services.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Services\\Mission.Services.csproj",
+              "RelativeToolTip": "Mission.Services\\Mission.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T11:52:36.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Services\\IService\\IUserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Services\\IService\\IUserService.cs",
+              "RelativeToolTip": "Mission.Services\\IService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:55:09.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\ViewModels\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\ViewModels\\ResponseResult.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\ViewModels\\ResponseResult.cs",
+              "RelativeToolTip": "Mission.Entities\\ViewModels\\ResponseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:00:51.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Mission.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Mission.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T09:51:29.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MissionDbConext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\MissionDbConext.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\MissionDbConext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\MissionDbConext.cs",
+              "RelativeToolTip": "Mission.Entities\\MissionDbConext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T09:40:23.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Mission\\Mission.Entities\\Models\\User.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T09:37:29.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
