@@ -1,0 +1,12 @@
+D:\Day-9\backend\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+D:\Day-9\backend\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+D:\Day-9\backend\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Day-9\backend\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+D:\Day-9\backend\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day-9\backend\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+D:\Day-9\backend\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+D:\Day-9\backend\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+D:\Day-9\backend\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+D:\Day-9\backend\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+D:\Day-9\backend\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+D:\Day-9\backend\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
