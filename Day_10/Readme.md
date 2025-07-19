@@ -72,11 +72,7 @@ This session focuses on gaining **hands-on experience with Amazon Web Services (
 
 ---
 
-## 📷 Screenshots / Output (Optional)
 
-> Include screenshots of your EC2 instance, deployed app, or AWS console here if required.
-
----
 
 ## 🔗 Useful Resources
 
